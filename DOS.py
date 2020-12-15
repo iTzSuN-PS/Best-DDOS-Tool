@@ -3,7 +3,9 @@
 import socket,time,sys,os
 from requests import get
 print(":)")
+print("=================================")
 print("iTzSuN")
+print("=================================")
 print("checking for network")
 try:
     get("https://google.com",timeout = 3)
