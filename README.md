@@ -1,3 +1,6 @@
+Commands for kali linux - Linux
+
+
 git clone https://github.com/iTzSuN-PS/Best-DDOS-Tool.git
 
 
